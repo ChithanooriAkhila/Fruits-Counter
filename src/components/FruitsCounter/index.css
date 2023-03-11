@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffd569;
+  height: 100vh;
+  padding: 40px;
+}
+.main-container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.fruit {
+  color: #ffd569;
+}
+.img-fruit {
+  height: 200px;
+}
+.fruits-container {
+  display: flex;
+}
+.fruit-container {
+  display: flex;
+  flex-direction: column;
+  margin-right: 30px;
+}
